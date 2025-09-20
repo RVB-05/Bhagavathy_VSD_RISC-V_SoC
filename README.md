@@ -12,7 +12,7 @@ This repository documents my **week-by-week progress**, starting with environmen
 
 | Task                          | Description                                                                                                            | Status |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
-| [**TASK 0**](week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**) and configured Ubuntu VM | Completed|
+| [**Task 0**](week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**) and configured Ubuntu VM | Completed|
 
 ### Tools Installed
 
@@ -54,7 +54,7 @@ Enables **window resizing, shared clipboard**, and improved graphics in the VM.
 
 ## Acknowledgment
 
-I thank [**Kunal Ghosh**](https://github.com/kunalg123) and the **VLSI System Design (VSD)** team for the opportunity to participate in the RISC-V SoC Tapeout Program.
+I thank [**Kunal Ghosh**](https://github.com/kunalg123) and the [**VLSI System Design (VSD)**](https://vsdiat.vlsisystemdesign.com) team for the opportunity to participate in the RISC-V SoC Tapeout Program.
 Support from **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and [**Efabless**](https://github.com/efabless) is gratefully acknowledged.
 
 ---
