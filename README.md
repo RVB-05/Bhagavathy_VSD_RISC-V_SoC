@@ -22,20 +22,6 @@ This repository documents my **week-by-week progress**, starting with environmen
 * HDD: 50 GB
 * CPU: 4 vCPU
 
-**VirtualBox Guest Additions (Optional but Recommended):**
-
-```bash
-sudo apt update
-sudo apt install build-essential dkms linux-headers-$(uname -r)
-cd /media/<username>/VBox_GAs_7.1.8/
-sudo ./autorun.sh
-sudo reboot
-```
-
-Enables **window resizing, shared clipboard**, and improved graphics in the VM.
-
-
-
 ### Key Learnings from Week 0
 
 * Installed and verified **essential EDA tools** successfully.
