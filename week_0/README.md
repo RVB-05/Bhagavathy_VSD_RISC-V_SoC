@@ -55,7 +55,7 @@ sudo apt install gtkwave
 ![GTKWave Installation](screenshots/gtkwave_installation_proof.png)
 
 
-### 3 **Ngspice**
+### 4 **Ngspice**
 Ngspice is a mixed-signal electronic circuit simulator.
 
 **Installation Commands:**
