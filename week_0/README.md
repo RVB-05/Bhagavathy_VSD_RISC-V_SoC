@@ -21,6 +21,7 @@ sudo reboot
 
 ```
 This allows window resizing, shared clipboard, and improved graphics in the VM.
+
 ---
 
 ## Tools Installed
