@@ -82,3 +82,20 @@ sudo make install
 ```
 ![Ngspice Installation](screenshots/ngspice.png)
 
+### 5. **Magic VLSI**
+Magic is an open-source VLSI layout tool.
+
+**Installation Commands:**
+```bash
+sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev libcairo2-dev \
+mesa-common-dev libglu1-mesa-dev libncurses-dev
+git clone https://github.com/RTimothyEdwards/magic
+cd magic
+./configure
+make
+sudo make install
+
+```
+![Magic Installation](screenshots/magic_installation_proof.png)
+
+
