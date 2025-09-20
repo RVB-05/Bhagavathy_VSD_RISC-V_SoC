@@ -52,4 +52,23 @@ sudo apt-get update
 sudo apt install gtkwave
 
 ```
-![GTKWave Installation](screenshots/gtkwave_installation.png)
+![GTKWave Installation](screenshots/gtkwave_installation_proof.png)
+
+
+### 3 **Ngspice**
+Ngspice is a mixed-signal electronic circuit simulator.
+
+**Installation Commands:**
+```bash
+# Download tarball from https://sourceforge.net/projects/ngspice/files/
+tar -zxvf ngspice-37.tar.gz
+cd ngspice-37
+mkdir release
+cd release
+../configure --with-x --with-readline=yes --disable-debug
+make
+sudo make install
+
+```
+![Ngspice Installation](screenshots/ngspice.png)
+
