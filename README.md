@@ -12,7 +12,7 @@ This repository documents my **week-by-week progress**, starting with environmen
 
 | Task                          | Description                                                                                                            | Status |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
-| [**Task 0**](Week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**) and configured Ubuntu VM | Completed|
+| [**TASK 0**](week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**) and configured Ubuntu VM | Completed|
 
 ### Tools Installed
 
