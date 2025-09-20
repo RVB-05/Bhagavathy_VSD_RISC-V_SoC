@@ -11,6 +11,16 @@ This repository documents the installation and setup of essential tools for the 
 - CPU: 4 vCPU  
 - OS: Ubuntu 20.04+  
 
+VirtualBox Guest Additions (Optional but Recommended):
+```bash
+sudo apt update
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+cd /media/<username>/VBox_GAs_7.1.8/
+sudo ./autorun.sh
+sudo reboot
+
+```
+This allows window resizing, shared clipboard, and improved graphics in the VM.
 ---
 
 ## Tools Installed
