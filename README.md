@@ -8,20 +8,12 @@ This repository documents my **week-by-week progress**, starting with environmen
 
 ---
 
-## Week 0 — Setup & Tools
+## Week 0 — Foundations of RISC-V SoC Design
 
 | Task                          | Description                                                                                                            | Status |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
 | [**Task 0**](week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**) and configured Ubuntu VM | Completed|
 
-### Tools Installed
-
-| Tool     | Purpose                            |Verification |
-| -------- | ---------------------------------- |------------ |
-| Yosys    | RTL Synthesis & Logic Optimization |Verified     |
-| Iverilog | Verilog Simulation & Compilation   |Verified     |
-| GTKWave  | Waveform Viewer                    |Verified     |
-| Ngspice  | Analog & Mixed-Signal Simulation   |Verified     |
 
 ### VM Configuration
 
