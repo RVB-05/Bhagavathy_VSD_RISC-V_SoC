@@ -14,13 +14,6 @@ Embarking on the RISC-V SoC Tapeout Program VSD, this repository captures my han
 | [**Task 0**](week_0/README.md)    | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**, **Magic VLSI**) and configured Ubuntu VM | Completed|
 
 
-### VM Configuration
-
-* OS: Ubuntu 20.04+
-* RAM: 6 GB
-* HDD: 50 GB
-* CPU: 4 vCPU
-
 ### Takeaways from Week 0
 
 * Installed and verified **essential EDA tools** successfully.
