@@ -30,7 +30,7 @@ make config-gcc
 make
 sudo make install
 ```
-![Yosys Installation](screenshots/yosys_installation_proof.png)
+![Yosys Installation](screenshots/Yosys_installation.png)
 
 ### 2. **Icarus Verilog (Iverilog)**
 Iverilog is a Verilog simulation and synthesis tool.
@@ -53,7 +53,7 @@ sudo apt install gtkwave
 
 ```
 ![GTKWave Installation](screenshots/gtkwave_installation_proof.png)
-
+![](screenshots/gtkwave_proof_2.png)
 
 ### 4 **Ngspice**
 Ngspice is a mixed-signal electronic circuit simulator.
