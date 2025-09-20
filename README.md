@@ -9,8 +9,8 @@ Embarking on the RISC-V SoC Tapeout Program VSD, this repository captures my han
 
 ## Week 0 — Foundations of RISC-V SoC Design
 
-| Task                          | Description                                                                                                            | Status |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
+| Task                            | Description                                                                                                            | Status |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
 | [**Task 0**](week_0/README.md) | Installed essential open-source EDA tools (**Iverilog**, **Yosys**, **GTKWave**, **Ngspice**, **Magic VLSI**) and configured Ubuntu VM | Completed|
 
 
