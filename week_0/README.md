@@ -30,7 +30,7 @@ make config-gcc
 make
 sudo make install
 ```
-![Yosys Installation](Screenshots/yosys_installation .png)
+![Yosys Installation](yosys_installation_proof.png)
 
 ### 2. **Icarus Verilog (Iverilog)**
 Iverilog is a Verilog simulation and synthesis tool.
@@ -41,7 +41,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 
 ```
-![Iverilog Installation](Screenshots/iverilog_installation.png)
+![Iverilog Installation](iverilog_installation.png)
 
 ### 3 **GTKWave**
 GTKWave is a waveform viewer for simulation outputs.
@@ -52,4 +52,4 @@ sudo apt-get update
 sudo apt install gtkwave
 
 ```
-![GTKWave Installation](Screenshots/gtkwave_installation.png)
+![GTKWave Installation](gtkwave_installation.png)
