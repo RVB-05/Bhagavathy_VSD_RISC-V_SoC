@@ -3,8 +3,7 @@
 
 # RISC-V SoC Tapeout Program VSD
 
-Welcome to my journey through the **RISC-V SoC Tapeout Program VSD**.
-This repository documents my **week-by-week progress**, starting with environment setup and tool installation.
+Embarking on the RISC-V SoC Tapeout Program VSD, this repository captures my hands-on experience with digital design workflows. Week 0 focuses on preparing the development environment, installing essential open-source EDA tools, and ensuring the system is ready for RTL design, simulation, and verification tasks.
 
 ---
 
@@ -22,7 +21,7 @@ This repository documents my **week-by-week progress**, starting with environmen
 * HDD: 50 GB
 * CPU: 4 vCPU
 
-### Key Learnings from Week 0
+### Takeaways from Week 0
 
 * Installed and verified **essential EDA tools** successfully.
 * Learned **basic environment setup** for RTL design and simulation.
