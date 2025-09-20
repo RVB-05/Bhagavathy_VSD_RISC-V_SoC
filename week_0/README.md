@@ -83,7 +83,7 @@ sudo make install
 ![Ngspice Installation](screenshots/ngspice.png)
 
 ### 5. **Magic VLSI**
-Magic is an open-source VLSI layout tool.
+Magic is an open-source VLSI layout editor and verification tool, widely used for designing, simulating, and analyzing integrated circuit layouts.
 
 **Installation Commands:**
 ```bash
