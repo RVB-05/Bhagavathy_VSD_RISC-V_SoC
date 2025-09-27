@@ -124,7 +124,7 @@ When a = 0, output y = 0 regardless of b or c.
 
 Dsign:
 
-![dff_const1](dff_const1.png)
+![dff_const1](diff_const1.png)
 
 ### : Constant D Flip-Flop
 
@@ -151,7 +151,7 @@ Independent of clock or reset.
 
 Dsign:
 
-![dff_const2](dff_const2.png)
+![dff_const2](diff_const2.png)
 
 ### Key Learnings 
 
