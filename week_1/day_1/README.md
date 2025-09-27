@@ -1,4 +1,7 @@
-## Day 1: Verilog Simulation with Icarus Verilog & GTKWave
+# Day 1: Foundations of RTL Design and Synthesis
+Day 1 focuses on establishing the fundamentals of Register Transfer Level (RTL) design. The session introduces Verilog as a hardware description language, followed by functional verification using the open-source simulator Icarus Verilog. It also covers the basics of logic synthesis with Yosys, demonstrating how RTL code is mapped into gate-level representations. Through guided exercises, participants gain a clear understanding of the front-end digital design flow and build the foundation for advanced topics in subsequent sessions.
+
+## Verilog Simulation with Icarus Verilog & GTKWave
 
 ### Objective
 - Simulate a simple 2-to-1 multiplexer (MUX) using Verilog.
