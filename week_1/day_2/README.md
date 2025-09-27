@@ -1,7 +1,14 @@
 # Day 2 – Flip-Flop Coding, Simulation & Synthesis
-
-This session introduces **flip-flops**, the fundamental sequential elements in digital design.  
-You will learn to code different flip-flop styles in Verilog, simulate them, and synthesize them with the **Sky130 library**.
+This session focuses on understanding and implementing flip-flops, which are the fundamental sequential elements in digital design. The experiment involves:
+Writing Verilog RTL code for different flip-flop coding styles (asynchronous reset, asynchronous set, synchronous reset).
+Developing testbenches to verify functional correctness through simulation.
+Running functional simulation using Icarus Verilog and waveform analysis with GTKWave.
+Performing logic synthesis using Yosys with the Sky130 standard cell library, mapping RTL to real hardware cells.
+By the end of this exercise, you will gain hands-on experience in:
+Writing synthesizable Verilog code for sequential circuits.
+Understanding the differences between asynchronous and synchronous control signals.
+Using open-source EDA tools for simulation and waveform debugging.
+Running synthesis flow to analyze gate-level implementations.
 
 ---
 
