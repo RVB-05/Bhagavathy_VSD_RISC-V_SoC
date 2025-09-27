@@ -41,15 +41,16 @@ end
 endmodule
 ```
 4. **Design Simulation**
--Compile and simulate
+
+Compile and simulate
 ```bash
 iverilog good_mux.v tb_good_mux.v
 ```
--Run the simulation
+Run the simulation
 ```bash
 ./a.out
 ```
--View waveform
+View waveform
 ```bash
 gtkwave tb_good_mux.vcd
 ```
